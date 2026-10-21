@@ -1,6 +1,6 @@
 #!name = CRISTIANO RONALDO
 #!desc = TDManhCuong
-#!desc = YouTube + Locket + SoundCloud + Spotify 
+#YouTube + Locket + SoundCloud + Spotify + v.v... 
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT
