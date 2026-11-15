@@ -2,7 +2,8 @@
 #!desc = TDMC
 #!author=duyvinh09
 #!homepage=https://module-ios.netlify.app
-#!tgchannel=https://t.me/tienich		
+#!tgchannel=https://t.me/tienich
+#!moduleUrl=https://raw.githubusercontent.com/TDMC/Module_IOS/refs/heads/main/All_In_One.sgmodule
 #!icon=https://module-ios.netlify.app/assets/img/shadowrocket.webp
 #!howtouse=Shadowrocket
 #Shadowrocket Configuration - Link All
