@@ -1,6 +1,11 @@
 #!name = GOAT CRISTANO
 #!desc = TDMC
-#Link All....
+#!author=duyvinh09
+#!homepage=https://module-ios.netlify.app
+#!tgchannel=https://t.me/tienich		
+#!icon=https://module-ios.netlify.app/assets/img/shadowrocket.webp
+#!howtouse=Shadowrocket
+#Shadowrocket Configuration - Link All
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT
